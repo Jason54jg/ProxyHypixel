@@ -1,0 +1,16 @@
+[
+  {
+    "modid": "${modid}",
+    "name": "ProxyHypixel",
+    "description": "Proxy mod",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "none",
+    "updateUrl": "",
+    "authorList": ["Jason54"],
+    "credits": "",
+    "logoFile": "assets/proxyhypixel/icon-mod/proxy.png",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
